@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Css Seçici Türleri</title>
+    <style>
+        h2
+        {
+            color:darkred;
+            font-family:Calibri;
+        }
+        .onemli
+        {
+            text-decoration:underline;
+            font-weight:900;/*100 - 900 arasında değer alır yazının kalınlığını ayarlar*/
+            font-family:Poppins;
+            font-size:20pt;
+        }
+        #lbl_kullanici{
+            color:silver;
+            font-size:25pt;
+        }
+        #tb_kullanici{
+            color:teal;
+            font-size:25pt;
+        }
+    </style>
+</head>
+<body>
+    <h1>Seçici Türleri</h1>
+    <h2>Satır Bazında css(inline)</h2>
+    <label style="font-size:20pt">Inline Css</label>
+    <h2 style="color:deeppink">Etiket Seçiciler</h2>
+    <p>Temelde bütün sayfa veya bir grup içerisindeki aynı etikete sahip tüm içeriklerin etkilenmesi için kullanılır. head bloğuna style etiketi tanımlanır ve seçiciler bu etiket içerisine yazılır. css özellikleri {} küme parantezi içerisine yazılarak birden çok css özelliğinin tanımlanması sağlanır.</p>
+    <h2>Sınıf Seçiciler</h2>
+    <p class="onemli">Önce sınıf tanımlanır. body içerisinde aynı özellikte olması istenen tüm etiketlere class attribute'u ile sınıf ataması yapılır</p>
+    <label class="onemli">Üstteki paragraf ile aynı sınıfa sahibim</label>
+    <h2>ID Seçiciler</h2>
+    <p>ID html sayfasında unique olarak atanmış veridir/etikettir. css ile bu unique elemanın özelliklerini değiştirebiliriz</p>
+    <label id="lbl_kullanici">Kullanıcı adı:</label><br />
+    <input type="text" id="tb_kullanici"/>
+    
+</body>
+</html>

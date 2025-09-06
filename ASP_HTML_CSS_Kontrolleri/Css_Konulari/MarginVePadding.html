@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Margin Ve Padding</title>
+    <style>
+        .kutu{
+            width:250px;
+            height:250px;
+            border:1px solid maroon;
+            text-align:justify;
+            /*padding:20px;*/
+
+            /*padding-bottom:20px;
+            padding-left:20px;
+            padding-right:20px;
+            padding-top:20px;*/
+
+            padding:20px 50px;
+            /*padding:top-bottom left-right*/
+        }
+        .kutuiki {
+            width: 250px;
+            height: 250px;
+            border: 1px solid pink;
+            text-align: justify;
+            /*margin:50px;*/
+            margin: 20px 50px;
+            /*margin:top-bottom left-right*/
+        }
+        .tasiyici {
+            width: 1200px;
+            min-height: 600px;
+            border: 1px solid silver;
+            margin-left: auto;
+            margin-right: auto;
+            /*margin-left:auto;
+            margin-right:auto;*/
+            /*Uygulanan etiketin mutlaka genişlik(width) bilgisine sahip olması gerekir*/
+        }
+    </style>
+</head>
+<body>
+    <div class="kutu">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in tortor in orci aliquam semper ut non nunc. Quisque porttitor aliquet nisi vel mollis. In finibus sem lorem, ut feugiat mauris consectetur sit amet. Aenean et hendrerit risus. Fusce scelerisque metus quis tellus mattis iaculis.
+        <b>Toplam Genişlik:</b><br />
+        1px + 50px + 250px + 50px + 1px = 352px
+    </div>
+    <div class="kutuiki">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in tortor in orci aliquam semper ut non nunc. Quisque porttitor aliquet nisi vel mollis. In finibus sem lorem, ut feugiat mauris consectetur sit amet. Aenean et hendrerit risus. Fusce scelerisque metus quis tellus mattis iaculis.
+    </div>
+    <div class="tasiyici">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam in tortor in orci aliquam semper ut non nunc. Quisque porttitor aliquet nisi vel mollis. In finibus sem lorem, ut feugiat mauris consectetur sit amet. Aenean et hendrerit risus. Fusce scelerisque metus quis tellus mattis iaculis.
+    </div>
+</body>
+</html>
