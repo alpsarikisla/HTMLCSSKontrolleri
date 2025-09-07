@@ -93,6 +93,16 @@
     <Content Include="Html_Konulari\TabloOlusturma.html" />
     <Content Include="Html_Konulari\TemelHtmlKurallari.html" />
     <Content Include="Web.config" />
+    <Content Include="YatanKomputer\Css\SayfaStili.css" />
+    <Content Include="YatanKomputer\index.html" />
+    <Content Include="YatanKomputer\Resimler\intel-serit-banner-7-9-25-web.jpg" />
+    <Content Include="YatanKomputer\Resimler\msi-12-5-25-web.jpg" />
+    <Content Include="YatanKomputer\Resimler\search.png" />
+    <Content Include="YatanKomputer\Resimler\shopping-cart.png" />
+    <Content Include="YatanKomputer\Resimler\sitelogo-1.png" />
+    <Content Include="YatanKomputer\Resimler\sitelogo.png" />
+    <Content Include="YatanKomputer\Resimler\sitelogo.svg" />
+    <Content Include="YatanKomputer\Resimler\user.png" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />

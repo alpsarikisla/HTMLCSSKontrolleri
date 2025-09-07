@@ -1,0 +1,89 @@
+﻿*{
+    margin:0;
+    padding:0;
+}
+body {
+    font-family:Poppins;
+}
+.tasiyici{
+    width:1336px;
+    margin:auto;
+}
+.menuTasiyici
+{
+    text-align:center;
+}
+.menuTasiyici a{
+    text-decoration:none;
+    padding:3px 7px;
+    font-size:9pt;
+    color:dimgray;
+}
+    .menuTasiyici a:hover {
+        color: #003BA7;
+    }
+.menuAktif {
+    color: #003BA7 !important;
+}
+.logo{
+    height:42px;
+}
+.esasoglan
+{
+    padding:20px;
+}
+.kolon
+{
+    width:421px;
+    float:left;
+}
+.aramaCibik {
+    padding:15px;
+    width:386px;
+    border-radius:30px;
+    border:none;
+    background-color:#f6f6f6;
+    float:left;
+}
+.arabuton {
+    margin-left:-40px;
+    margin-top:12px;
+    float:left;
+}
+.arabuton img {
+    width: 18px;
+}
+.girisButon {
+    background-color: #F5F5F5;
+    padding: 10px 40px;
+    border-radius: 30px;
+    color:dimgray;
+    font-weight:500;
+    text-decoration:none;
+    margin:10px;
+}
+.hizala{
+    text-align:right;
+    padding-top:7px;
+}
+.ayrac {
+    border-top: 1px solid silver;
+    border-bottom: 1px solid silver;
+}
+.anaMenu {
+   display:flex;
+   justify-content:space-between;
+   font-size:12pt;
+}
+.anaMenu a {
+    font-family:Calibri !important;
+    color:dimgray;
+    text-decoration:none;
+    font-weight:900;
+    padding:10px 0;
+    border-top:2px solid white;
+}
+    .anaMenu a:hover {
+        border-top: 2px solid #003BA7;
+        color: #003BA7;
+    }
