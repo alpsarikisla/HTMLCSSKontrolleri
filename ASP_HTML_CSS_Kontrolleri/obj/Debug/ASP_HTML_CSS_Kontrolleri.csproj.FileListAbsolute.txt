@@ -116,3 +116,5 @@ C:\Users\Alp\Documents\GitHub\HTMLCSSKontrolleri\ASP_HTML_CSS_Kontrolleri\obj\De
 C:\Users\Alp\Documents\GitHub\HTMLCSSKontrolleri\ASP_HTML_CSS_Kontrolleri\obj\Debug\ASP_HTML.2D962B0D.Up2Date
 C:\Users\Alp\Documents\GitHub\HTMLCSSKontrolleri\ASP_HTML_CSS_Kontrolleri\obj\Debug\ASP_HTML_CSS_Kontrolleri.dll
 C:\Users\Alp\Documents\GitHub\HTMLCSSKontrolleri\ASP_HTML_CSS_Kontrolleri\obj\Debug\ASP_HTML_CSS_Kontrolleri.pdb
+C:\Users\Alp\Documents\GitHub\HTMLCSSKontrolleri\ASP_HTML_CSS_Kontrolleri\bin\DataAccessLayer.dll
+C:\Users\Alp\Documents\GitHub\HTMLCSSKontrolleri\ASP_HTML_CSS_Kontrolleri\bin\DataAccessLayer.pdb

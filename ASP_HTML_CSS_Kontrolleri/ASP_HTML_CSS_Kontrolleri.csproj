@@ -68,6 +68,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Asp_Konulari\ButtonKontrolu.aspx" />
+    <Content Include="Asp_Konulari\DataboundDropDownListKontrolu.aspx" />
+    <Content Include="Asp_Konulari\DropDownListKontrolu.aspx" />
+    <Content Include="Asp_Konulari\Images\lock.gif" />
+    <Content Include="Asp_Konulari\KullaniciGiris.aspx" />
+    <Content Include="Asp_Konulari\LabelKontrolu.aspx" />
+    <Content Include="Asp_Konulari\TextboxKontrolu.aspx" />
+    <Content Include="Asp_Konulari\VeritabanliDropDownKontrolu.aspx" />
     <Content Include="Css_Konulari\Assets\Css\StilSayfasi.css" />
     <Content Include="Css_Konulari\Assets\Resimler\1_org_zoom.jpg" />
     <Content Include="Css_Konulari\Assets\Resimler\95200785862671877634.jpg" />
@@ -105,6 +113,56 @@
     <Content Include="YatanKomputer\Resimler\user.png" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Asp_Konulari\ButtonKontrolu.aspx.cs">
+      <DependentUpon>ButtonKontrolu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Asp_Konulari\ButtonKontrolu.aspx.designer.cs">
+      <DependentUpon>ButtonKontrolu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Asp_Konulari\DataboundDropDownListKontrolu.aspx.cs">
+      <DependentUpon>DataboundDropDownListKontrolu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Asp_Konulari\DataboundDropDownListKontrolu.aspx.designer.cs">
+      <DependentUpon>DataboundDropDownListKontrolu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Asp_Konulari\DropDownListKontrolu.aspx.cs">
+      <DependentUpon>DropDownListKontrolu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Asp_Konulari\DropDownListKontrolu.aspx.designer.cs">
+      <DependentUpon>DropDownListKontrolu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Asp_Konulari\KullaniciGiris.aspx.cs">
+      <DependentUpon>KullaniciGiris.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Asp_Konulari\KullaniciGiris.aspx.designer.cs">
+      <DependentUpon>KullaniciGiris.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Asp_Konulari\LabelKontrolu.aspx.cs">
+      <DependentUpon>LabelKontrolu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Asp_Konulari\LabelKontrolu.aspx.designer.cs">
+      <DependentUpon>LabelKontrolu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Asp_Konulari\Model\Kategori.cs" />
+    <Compile Include="Asp_Konulari\TextboxKontrolu.aspx.cs">
+      <DependentUpon>TextboxKontrolu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Asp_Konulari\TextboxKontrolu.aspx.designer.cs">
+      <DependentUpon>TextboxKontrolu.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Asp_Konulari\VeritabanliDropDownKontrolu.aspx.cs">
+      <DependentUpon>VeritabanliDropDownKontrolu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Asp_Konulari\VeritabanliDropDownKontrolu.aspx.designer.cs">
+      <DependentUpon>VeritabanliDropDownKontrolu.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -117,7 +175,12 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{309ad546-6f07-4558-bb58-b6c7bd1b5904}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
