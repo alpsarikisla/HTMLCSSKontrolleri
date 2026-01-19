@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{06A089C4-C019-46D0-B0EC-311BADB70C4A}|ASP_HTML_CSS_Kontrolleri\\ASP_HTML_CSS_Kontrolleri.csproj|solutionrelative:asp_html_css_kontrolleri\\asp_konulari\\veritabanlidropdownkontrolu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{309AD546-6F07-4558-BB58-B6C7BD1B5904}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alp\\documents\\github\\htmlcsskontrolleri\\dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{309AD546-6F07-4558-BB58-B6C7BD1B5904}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\Alp\\Documents\\GitHub\\HTMLCSSKontrolleri\\dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{309AD546-6F07-4558-BB58-B6C7BD1B5904}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\datamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{06A089C4-C019-46D0-B0EC-311BADB70C4A}|ASP_HTML_CSS_Kontrolleri\\ASP_HTML_CSS_Kontrolleri.csproj|c:\\users\\alp\\documents\\github\\htmlcsskontrolleri\\asp_html_css_kontrolleri\\asp_konulari\\veritabanlidropdownkontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{06A089C4-C019-46D0-B0EC-311BADB70C4A}|ASP_HTML_CSS_Kontrolleri\\ASP_HTML_CSS_Kontrolleri.csproj|C:\\Users\\Alp\\Documents\\GitHub\\HTMLCSSKontrolleri\\asp_html_css_kontrolleri\\asp_konulari\\veritabanlidropdownkontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{06A089C4-C019-46D0-B0EC-311BADB70C4A}|ASP_HTML_CSS_Kontrolleri\\ASP_HTML_CSS_Kontrolleri.csproj|solutionrelative:asp_html_css_kontrolleri\\asp_konulari\\veritabanlidropdownkontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{309AD546-6F07-4558-BB58-B6C7BD1B5904}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alp\\documents\\github\\htmlcsskontrolleri\\dataaccesslayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{309AD546-6F07-4558-BB58-B6C7BD1B5904}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\Alp\\Documents\\GitHub\\HTMLCSSKontrolleri\\dataaccesslayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{309AD546-6F07-4558-BB58-B6C7BD1B5904}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{309AD546-6F07-4558-BB58-B6C7BD1B5904}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\alp\\documents\\github\\htmlcsskontrolleri\\dataaccesslayer\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{309AD546-6F07-4558-BB58-B6C7BD1B5904}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\Alp\\Documents\\GitHub\\HTMLCSSKontrolleri\\dataaccesslayer\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{309AD546-6F07-4558-BB58-B6C7BD1B5904}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\connectionstrings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "ASP_HTML_CSS_Kontrolleri\\Asp_Konulari\\VeritabanliDropDownKontrolu.aspx.cs",
               "ToolTip": "C:\\Users\\Alp\\Documents\\GitHub\\HTMLCSSKontrolleri\\ASP_HTML_CSS_Kontrolleri\\Asp_Konulari\\VeritabanliDropDownKontrolu.aspx.cs",
               "RelativeToolTip": "ASP_HTML_CSS_Kontrolleri\\Asp_Konulari\\VeritabanliDropDownKontrolu.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwA0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T12:39:49.028Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "ASP_HTML_CSS_Kontrolleri\\Asp_Konulari\\VeritabanliDropDownKontrolu.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-14T12:38:29.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T12:38:29.793Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "DataAccessLayer\\DataModel.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T12:20:11.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T12:20:11.284Z"
             },
             {
               "$type": "Document",
@@ -85,8 +83,7 @@
               "RelativeToolTip": "DataAccessLayer\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T12:19:14.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T12:19:14.461Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "DataAccessLayer\\ConnectionStrings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T12:13:21.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T12:13:21.981Z"
             }
           ]
         }
